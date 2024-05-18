@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austin M. Smith ( @amsmith8 )
-- 👀 I’m interested in ecological modeling.  My research relates to invasive species and epidemiology.
+- 👀 I’m interested in ecological modeling.  My research relates to invasive species and biogeography.
 - 🌱 I’m currently working on integrating new machine learning methods into ecological studies. 
 - 💞️ I’m looking to collaborate on new algorithms that benefit biological studies.
 - 📫 How to reach me:  amsmith11@usf.edu
